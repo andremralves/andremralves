@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 ### Technologies
 
+![django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
